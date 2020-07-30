@@ -54,14 +54,15 @@ authors:
     twitter:
     affiliations:
       - 
-  - name: André Santos
-    initials:
-    email: 
-    orcid: 
-    github:
-    twitter:
+  - name: André M Ribeiro-dos-Santos
+    initials: AMRS
+    email: ribeia01@nyu.edu
+    orcid: 0000-0002-7005-3576
+    github: andremrsantos
+    twitter: andremrsantos
     affiliations:
-      - 
+      - Institute for Systems Genetics, NYU School of Medicine.
+      - Department of Pathology, NYU School of Medicine.
   - name: Titus Brown
     initials:
     email:
